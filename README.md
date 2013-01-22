@@ -1,4 +1,4 @@
 yiilightbox
 ===========
 
-yiiLightbox - image slider
+yiiLightbox - yii extension for image slider
