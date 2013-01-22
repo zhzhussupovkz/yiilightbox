@@ -1,0 +1,4 @@
+yiilightbox
+===========
+
+yiiLightbox - image slider
